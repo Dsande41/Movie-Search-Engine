@@ -3,12 +3,12 @@
 
 
 
-# Search Bar
+### Search Bar
 
 
 <img src="readme/search.JPG">
 
-# Carousel display
+### Carousel display
 
 
 <img src= "readme/coverflow.JPG">
