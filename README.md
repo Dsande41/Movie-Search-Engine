@@ -11,4 +11,4 @@
 # Carousel display
 
 
-<img src= "readme/coverflow.JPG"
+<img src= "readme/coverflow.JPG">
