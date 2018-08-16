@@ -1,14 +1,14 @@
 
-# Movie Sarch Engine
+## Movie Sarch Engine
 
 
 
 # Search Bar
-* 
 
-<img href="readme/search.png">
+
+<img src="readme/search.png">
 
 # Carousel display
 
 
-<img href = "readme/coverflow.img"
+<img src= "readme/coverflow.img"
