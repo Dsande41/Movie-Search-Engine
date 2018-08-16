@@ -6,9 +6,9 @@
 # Search Bar
 
 
-<img src="readme/search.jpg">
+<img src="readme/search.JPG">
 
 # Carousel display
 
 
-<img src= "readme/coverflow.jpg"
+<img src= "readme/coverflow.JPG"
